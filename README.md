@@ -2,6 +2,31 @@
 
 A modular WezTerm configuration for Windows, split into small files in the
 style of common WezTerm config repos.
+## Prerequisites
+
+[WezTerm](https://wezterm.org/installation.html) In our case, we need to install the **Windows** Version. 
+
+## Quick Install
+**In case for future updates, checkout [WezTerm](https://wezterm.org/installation.html) homepage.
+### For winget users:
+
+```powershell
+winget install wez.wezterm
+```
+
+### For scoop users:
+
+```powershell
+scoop bucket add extras
+scoop install wezterm
+```
+
+### For chocolatey users
+
+```powershell
+choco install wezterm -y
+```
+
 
 ## Install
 
@@ -80,6 +105,7 @@ window_background_opacity = 0.7   -- 0.0 = fully transparent, 1.0 = opaque
 | `Ctrl+Shift` `x` | Copy mode |
 | `Ctrl+Shift` `p` | Command palette |
 | `F11` | Fullscreen |
+| `right` | Autocomplete |
 | `Ctrl` + click | Open link |
 | Right click | Paste |
 
