@@ -13,7 +13,7 @@ style of common WezTerm config repos.
 
 ## Prerequisites
 
-[WezTerm](https://wezterm.org/installation.html) In our case we need to install the **Windows** Version. 
+[WezTerm](https://wezterm.org/installation.html) In our case, we need to install the **Windows** Version. 
 
 ## Quick Install
 In case for future updates, checkout [WezTerm](https://wezterm.org/installation.html) homepage.
