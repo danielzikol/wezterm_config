@@ -8,7 +8,6 @@ A modular WezTerm configuration for Windows, split into small files in the
 style of common WezTerm config repos.
 ## Highlights
 - The terminal is **translucent!**
-- Color highlighting
 - The colours are easy to customize with Vscode(Vscode has a **Default Color Decorators**).
 
 ## Prerequisites
@@ -56,12 +55,6 @@ loads the modules.
 
 To add new options, drop them into the matching module. Each module just
 returns a Lua table of WezTerm options.
-
-
-
-
-
-
 
 ## Keybindings
 

@@ -10,14 +10,14 @@ return {
       'JetBrains Mono',
       'Symbols Nerd Font Mono', -- fallback for icons/glyphs
    },
-   font_size = 12.0,
+   font_size = 12.5,
    line_height = 1.0,
 
    -- Cursor
    default_cursor_style = 'BlinkingBar',
 
    -- Tab bar (disabled)
-   enable_tab_bar = false,
+   enable_tab_bar = true,
    use_fancy_tab_bar = false,
    hide_tab_bar_if_only_one_tab = true,
    show_new_tab_button_in_tab_bar = false,
@@ -32,7 +32,7 @@ return {
    -- win32_system_backdrop = 'Acrylic',
    text_background_opacity = 1.0,
 
-   window_decorations = 'TITLE | RESIZE',
+   window_decorations = 'RESIZE',
    window_padding = {
       left = 12,
       right = 12,
