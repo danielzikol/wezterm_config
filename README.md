@@ -8,7 +8,8 @@ A modular WezTerm configuration for Windows, split into small files in the
 style of common WezTerm config repos.
 ## Highlights
 - The terminal is **translucent!**
-- the colours are easy to customize with Vscode(Vscode has a **Default Color Decorators**).
+- Color highlighting
+- The colours are easy to customize with Vscode(Vscode has a **Default Color Decorators**).
 
 ## Prerequisites
 
